@@ -1,0 +1,12 @@
+﻿Dados do aluno
+
+-Primeiro Nome: Igor Kauê de Souza Almeida 
+-Profissão: Serrador
+-Cidade: Biritiba-Mirim
+-O que faz nas horas vaga: Jogo no meu computador	
+-Feedback sobre o curso Qualidade de Software: Muito bom adoro principalmente as aulas praticas
+-Feedback sobre a plataforma de estudo da EBAC: Muito bom posso fazer os exercícios quando quiser
+
+Obrigado!!!
+
+
